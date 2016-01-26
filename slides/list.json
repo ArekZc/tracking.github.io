@@ -1,0 +1,10 @@
+[
+    "index.html",
+    [
+        "general/why-we-use-trackers-in-applications.html",
+        "general/tracking-spaces.html"
+    ],
+    "before-script-loaded.html",
+    "event-types.html",
+    "no-script-tracking.html"
+]
