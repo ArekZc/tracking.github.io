@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Tracking",
+    "packageVersion": "0.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "arekzc",
+    "githubRepository": "tracking.github.io"
+  }
+}

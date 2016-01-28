@@ -1,0 +1,60 @@
+[
+    "index.html",
+    [
+        "identifier/index.html",
+        {
+            "filename": "identifier/first-party-cookie.html",
+            "attr": {
+                "data-background": "url('images/Cookie_monster.jpg') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        {
+            "filename": "identifier/third-party-cookie.html",
+            "attr": {
+                "data-background": "url('images/Cookie_monster.jpg') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        {
+            "filename": "identifier/e-tag.html",
+            "attr": {
+                "data-background": "url('images/http.png') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        {
+            "filename": "identifier/fingerprint.html",
+            "attr": {
+                "data-background": "url('images/fingerprint.jpg') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        {
+            "filename": "identifier/flash-cookies.html",
+            "attr": {
+                "data-background": "url('images/adobe-flash-player.jpg') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        {
+            "filename": "identifier/local-storage.html",
+            "attr": {
+                "data-background": "url('images/html5-local-storage.jpg') no-repeat",
+                "data-background-size": "100%"
+            }
+        },
+        "identifier/respawning.html"
+    ],
+    [
+        "events/index.html",
+        "events/dynamic-events.html",
+        "events/page-view-with-spa.html"
+    ],
+    [
+        "pixels/index.html",
+        "pixels/implementation.html"
+    ],
+    "conclusion.html",
+    "qa.html"
+]
